@@ -1,7 +1,25 @@
 .App {
   text-align: center;
 }
-
+.container{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+  color: rgba(17, 6, 139, 0.836);
+}
+.quantity{
+  font-size: 2rem;
+}
+span{
+  cursor: pointer;
+}
+input{
+  height: 30px;
+  width: 20px;
+  text-align: center;
+  margin: 1rem 1rem ;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
